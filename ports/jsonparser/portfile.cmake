@@ -37,7 +37,7 @@
 #  vcpkg_from_sourceforge
 vcpkg_download_distfile(ARCHIVE
     URLS "https://github.com/neogulcity/jsonparser/archive/0.1.0.tar.gz"
-    FILENAME "0.1.0.tar.gz"
+    FILENAME "jsonparer-0.1.0.tar.gz"
     SHA512 3b9a0d5ef0302445844a1ae882fdba79f64eb265c6876d075674e55cde79b9df24a57c367a4de44be873ddaa96b309c32e7496c4a0288c1de63f0a7eda1672bd
 )
 
