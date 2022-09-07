@@ -1,7 +1,7 @@
 {
 	"name": "jsonparser",
-	"version": "0.1.0",
-	"homepage": "",
+	"version": "0.1.0b",
+	"homepage": "https://github.com/neogulcity/jsonparser",
 	"description": "jsonparser.",
 	"dependencies": [
 		{
