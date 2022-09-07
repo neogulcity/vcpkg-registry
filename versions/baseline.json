@@ -1,7 +1,7 @@
 {
 	"default": {
 		"jsonparser": {
-			"baseline": "main",
+			"baseline": "1.0.0",
 			"port-version": 0
 		}
 	}
