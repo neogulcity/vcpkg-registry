@@ -36,8 +36,8 @@
 #  vcpkg_from_bitbucket
 #  vcpkg_from_sourceforge
 vcpkg_download_distfile(ARCHIVE
-    URLS "https://github.com/neogulcity/jsonparser/archive/0.1.0b.tar.gz"
-    FILENAME "0.1.0b.tar.gz"
+    URLS "https://github.com/neogulcity/jsonparser/archive/0.1.0.tar.gz"
+    FILENAME "0.1.0.tar.gz"
     SHA512 0
 )
 
